@@ -1,6 +1,6 @@
 /*
 Test #1
-Write a routine that implements the logic described above. Use the attached CSV as input.
+Routine that implements removes duplicates in a file with a list of addresses
 
 In the case of duplicates, use the last encountered record.
 NOTE: A duplicate is a row that has the same address and same date. The ID is irrelevant.
